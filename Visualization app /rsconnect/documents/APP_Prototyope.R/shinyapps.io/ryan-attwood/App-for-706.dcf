@@ -1,0 +1,12 @@
+name: App-for-706
+title: App-for-706
+username: ryan-attwood
+account: ryan-attwood
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 18430611
+bundleId: 12814549
+url: https://ryan-attwood.shinyapps.io/App-for-706/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
